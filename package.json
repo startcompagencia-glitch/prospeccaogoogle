@@ -1,0 +1,28 @@
+{
+  "name": "prospeccao-empresas",
+  "version": "1.0.0",
+  "description": "Sistema completo para prospecção de empresas locais que ainda não estão cadastradas no Google Maps",
+  "main": "app.py",
+  "scripts": {
+    "install": "cd frontend && pnpm install && cd .. && pip install -r requirements.txt",
+    "dev:frontend": "cd frontend && pnpm run dev",
+    "dev:backend": "cd api && python search.py",
+    "build": "cd frontend && pnpm run build",
+    "start": "python app.py"
+  },
+  "keywords": [
+    "prospeccao",
+    "empresas",
+    "google-maps",
+    "react",
+    "flask",
+    "api"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/prospeccao-empresas.git"
+  }
+}
+

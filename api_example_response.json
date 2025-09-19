@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "businesses": [
+    {
+      "name": "Starpack Plásticos Industriais",
+      "address": "Alameda Joaquim Eugênio de Lima, 696 - 9º andar - Jardim Paulista, São Paulo - SP, 01403-000, Brasil",
+      "phone": "(11) 3149-5555",
+      "place_id": "ChIJN1t_tDeVGVsRlatLxrHRQAI",
+      "is_on_maps": true
+    },
+    {
+      "name": "Promex Mais - São Paulo",
+      "address": "Rua Atílio Piffer, 745 - Casa Verde, São Paulo - SP, 02516-001, Brasil",
+      "phone": "(11) 2171-0194",
+      "place_id": "ChIJd7EdVqfVGVsRjYK-bhEhQAI",
+      "is_on_maps": true
+    },
+    {
+      "name": "Lopsa Indústria Comércio Torneados",
+      "address": "Av. Presidente Wilson, 6001 - Vila Independência, São Paulo - SP, 03347-001, Brasil",
+      "phone": "(11) 2271-2111",
+      "place_id": "ChIJrTWnVqfVGVsRjYK-bhEhQAI",
+      "is_on_maps": true
+    }
+  ],
+  "total": 20
+}
+
